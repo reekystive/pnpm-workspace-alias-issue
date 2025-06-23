@@ -1,0 +1,9 @@
+{
+  "name": "pnpm-workspace-alias-issue",
+  "packageManager": "pnpm@10.12.1",
+  "dependencies": {
+    "aliased-pkg-a": "npm:pkg-a@workspace:1.0.0",
+    "aliased-pkg-b": "npm:@scoped/pkg-b@workspace:1.0.0"
+  },
+  "//_comment": "aliased-pkg-b is working but aliased-pkg-a is not working"
+}
