@@ -1,3 +1,3 @@
-# PNPM Workspace Alias Issue
+# pnpm Workspace Alias Issue
 
-This repository is a minimal reproduction of an issue with PNPM workspace aliases.
+This repository is a minimal reproduction of an issue with pnpm workspace aliases.
